@@ -20,3 +20,8 @@ generate 10 of the MX passwords.
 
 `makeHashes.py`: This script takes a file name as input and writes out a new
 file with each of the lines of the file hashed using MD5 without salt.
+
+`randomPass.py': This script generates 10 of the RS passwords.
+
+`smartFracSim.py`: This script determines the average of the forward and
+reverse percent similarities of two passwords.
